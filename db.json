@@ -1,14 +1,83 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    id: '001',
+    question: 'What kind of animal is the dolphin?',
+    answer: [
+      'Dolphin is the common name of aquatic mammals within the infraorder Cetacea. The term dolphin usually refers to the extant families Delphinidae, Platanistidae, named Iniidae, and Pontoporiidae, and the extinct Lipotidae. There are 40 extant species named as dolphins. Although dolphins are widespread, most species of them prefer the warmer waters of the tropic zones, but some, like the right whale dolphin, prefer colder climates. Dolphins feed largely on fish and squid, but a few, like the killer whale, feed on large mammals, like seals. Male dolphins typically mate with multiple females every year, but females only mate every two to three years. ',
+      'Calves are typically born in the spring and summer months and females bear all the responsibility for raising them. Mothers of some species fast and nurse their young for a relatively long period of time. Dolphins produce a variety of vocalizations, usually in the form of clicks and whistles.'
+    ],
+    options: [
+      {
+        number: 'A',
+        question: 'Mammalr',
+        value: true
+      },
+      {
+        number: 'B',
+        question: 'Reptile'
+      },
+      {
+        number: 'C',
+        question: 'Fish'
+      },
+      {
+        number: 'C',
+        question: 'Amphibian'
+      }
+    ]
+  },
+  {
+    id: '002',
+    question: 'What kind of animal is the dolphin? 002',
+    answer: [
+      'Dolphin is the common name of aquatic mammals within the infraorder Cetacea. The term dolphin usually refers to the extant families Delphinidae, Platanistidae, named Iniidae, and Pontoporiidae, and the extinct Lipotidae. There are 40 extant species named as dolphins. Although dolphins are widespread, most species of them prefer the warmer waters of the tropic zones, but some, like the right whale dolphin, prefer colder climates. Dolphins feed largely on fish and squid, but a few, like the killer whale, feed on large mammals, like seals. Male dolphins typically mate with multiple females every year, but females only mate every two to three years. ',
+      'Calves are typically born in the spring and summer months and females bear all the responsibility for raising them. Mothers of some species fast and nurse their young for a relatively long period of time. Dolphins produce a variety of vocalizations, usually in the form of clicks and whistles.'
+    ],
+    options: [
+      {
+        number: 'A',
+        question: 'Mammalr',
+        value: true
+      },
+      {
+        number: 'B',
+        question: 'Reptile'
+      },
+      {
+        number: 'C',
+        question: 'Fish'
+      },
+      {
+        number: 'C',
+        question: 'Amphibian'
+      }
+    ]
+  },
+  {
+    id: '003',
+    question: 'What kind of animal is the dolphin? 003',
+    answer: [
+      'Dolphin is the common name of aquatic mammals within the infraorder Cetacea. The term dolphin usually refers to the extant families Delphinidae, Platanistidae, named Iniidae, and Pontoporiidae, and the extinct Lipotidae. There are 40 extant species named as dolphins. Although dolphins are widespread, most species of them prefer the warmer waters of the tropic zones, but some, like the right whale dolphin, prefer colder climates. Dolphins feed largely on fish and squid, but a few, like the killer whale, feed on large mammals, like seals. Male dolphins typically mate with multiple females every year, but females only mate every two to three years. ',
+      'Calves are typically born in the spring and summer months and females bear all the responsibility for raising them. Mothers of some species fast and nurse their young for a relatively long period of time. Dolphins produce a variety of vocalizations, usually in the form of clicks and whistles.'
+    ],
+    options: [
+      {
+        number: 'A',
+        question: 'Mammalr',
+        value: true
+      },
+      {
+        number: 'B',
+        question: 'Reptile'
+      },
+      {
+        number: 'C',
+        question: 'Fish'
+      },
+      {
+        number: 'C',
+        question: 'Amphibian'
+      }
+    ]
   }
-}
+]
